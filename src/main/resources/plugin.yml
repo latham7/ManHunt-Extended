@@ -1,0 +1,6 @@
+name: ManHuntExtended
+version: ${project.version}
+main: latham.manhuntextended.ManHuntExtended
+api-version: 1.13
+commands:
+    hunter:
