@@ -4,3 +4,6 @@ main: latham.manhuntextended.ManHuntExtended
 api-version: 1.13
 commands:
     hunter:
+        description: "Base command for Harbor!"
+    hunterdebug:
+        description: "Debug commands for ManHuntExtended"
